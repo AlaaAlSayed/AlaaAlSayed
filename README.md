@@ -19,7 +19,7 @@
 
 
 ### 🛠 &nbsp;Languages and Tools
-<br><br>
+<br>
 
 #### **Programming and Scripting Languages**  
 
@@ -48,6 +48,7 @@
 ---
 
 #### **Frameworks and Libraries**  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=Bootstrap&logoColor=purple)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white)
  ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel&logoColor=red)
 
@@ -55,6 +56,7 @@
 
 #### **Development Tools**  
 ![Visual Studio Code](https://img.shields.io/badge/-VS-000000?style=flat-square&logo=VS&logoColor=white)  
+
 ---
 
 
@@ -62,16 +64,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alaa-elfaioumy-605b2a153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alaa Elfaioumy" height="30" width="40" /></a>
-
-
+  
+ <a href="https://www.linkedin.com/in/alaa-elfaioumy-605b2a153/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="mailto:alaa.elfaioumy@gmail.com" mailto="alaa.elfaioumy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+</p>
 <br>
 <br>
 <br>
  📂 Check Out My Repositories
+
+<h4 align="center">
+  <a href="https://github.com/AlaaAlSayed?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+</h4>
 <br>
-<br>
-Explore my repositories to see my projects, participations, and more!
+
 <br><br><br>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
